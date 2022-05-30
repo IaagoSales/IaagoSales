@@ -1,6 +1,7 @@
 ### Olá! Bem-vindo eu sou Iaago Sales 
-
-
+- 🔭 Estou cursando Técnico em Informática na Instituição Senac-RJ
+- 💬 Gosto bastante de Banco de Dados, Segurança da Informação e POO(Programação Orientada a Objetos)
+- 📫 Entre em contato pelo email: iagostre77@gmail.com
 <div align="center">
   <a href="https://github.com/IaagoSales">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IaagoSales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
