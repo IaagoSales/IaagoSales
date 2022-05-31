@@ -1,4 +1,4 @@
-### Olá! Bem-vindo eu sou Iaago Sales 
+### Olá! Bem-vindo eu sou Iago Sales 
 - 🔭 Estou cursando Técnico em Informática na Instituição Senac-RJ
 - 💬 Gosto bastante de Banco de Dados, Segurança da Informação e POO(Programação Orientada a Objetos)
 - 📫 Entre em contato pelo email: iagostre77@gmail.com
