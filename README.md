@@ -1,5 +1,8 @@
 ### Olá! Bem-vindo eu sou Iago Sales 
-- 🔭 Estou cursando Técnico em Informática na Instituição Senac-RJ
+- 🔭 Cursos:
+- 🧾    Excel Básico ao Avançado Hotmart.
+- 🧾    Cursando Técnico em Informática Senac-RJ, Previsão de Término em Abril 2023
+- 🧾    Cursando JavaScript e TypeScript do básico ao avançado, Previsão de Término em Agosto 2022
 - 💬 Gosto bastante de Banco de Dados, Segurança da Informação e POO(Programação Orientada a Objetos)
 - 📫 Entre em contato pelo email: iagostre77@gmail.com
 <div align="center">
