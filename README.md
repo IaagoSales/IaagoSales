@@ -1,10 +1,11 @@
 ### Olá! Bem-vindo eu sou Iago Sales 
 - 🔭 Cursos:
 - 🧾    Excel Básico ao Avançado Hotmart.
-- 🧾    Cisco Network Essential.
+- 🧾    Curso Cisco Network Essential.
+- 🧾    Curso Cisco Cybersecurity Essentials.
 - 🧾    Cursando Técnico em Informática Senac-RJ, Previsão de Término em Abril 2023
 - 🧾    Cursando JavaScript e TypeScript do básico ao avançado, Previsão de Término em Agosto 2022
-- 💬    Gosto bastante de Banco de Dados, Segurança da Informação e Redes.
+- 💬    Gosto bastante de Segurança da Informação, Redes e Banco de Dados.
 - 📫    Entre em contato pelo email: iagostre77@gmail.com
 <div align="center">
   <a href="https://github.com/IaagoSales">
