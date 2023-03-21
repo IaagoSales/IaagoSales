@@ -6,7 +6,7 @@
 - 🧾    Cursando Técnico em Informática Senac-RJ, Previsão de Término em Abril 2023
 - 🧾    Cursando JavaScript e TypeScript do básico ao avançado, Previsão de Término em Agosto 2022
 - 💬    Gosto bastante de Segurança da Informação, Redes e Banco de Dados.
-- 📫    Entre em contato pelo email: iagostre77@gmail.com
+- 📫    Entre em contato pelo email: iago.ti@outlook.com.br
 <div align="center">
   <a href="https://github.com/IaagoSales">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IaagoSales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
