@@ -1,7 +1,7 @@
 ### Olá! Bem-vindo eu sou Iago Sales 
 - 🔭 Cursos:
 - 🧾    Curso Técnico em Informática Senac-RJ.
-- 🧾    Curso Cisco Network Essential.
+- 🧾    Curso Cisco Network Essentials.
 - 🧾    Curso Cisco Cybersecurity Essentials.
 - 🧾    Excel Básico ao Avançado Hotmart.
 - 🧾    Cursando JavaScript e TypeScript do básico ao avançado, Previsão de Término em Outubro 2022
@@ -18,6 +18,8 @@
   <img align="center" alt="Iago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img aling="center" alt="Iago-Type" height="30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
   <img align="right" alt="Iago-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/690304836977033445/980741061582405662/killua4.jpg">
 </div>
   
