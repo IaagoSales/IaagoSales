@@ -1,9 +1,9 @@
 ### Olá! Bem-vindo eu sou Iago Sales 
 - 🔭 Cursos:
-- 🧾    Excel Básico ao Avançado Hotmart.
+- 🧾    Curso Técnico em Informática Senac-RJ.
 - 🧾    Curso Cisco Network Essential.
 - 🧾    Curso Cisco Cybersecurity Essentials.
-- 🧾    Curso Técnico em Informática Senac-RJ.
+- 🧾    Excel Básico ao Avançado Hotmart.
 - 🧾    Cursando JavaScript e TypeScript do básico ao avançado, Previsão de Término em Agosto 2022
 - 💬    Gosto bastante de Segurança da Informação, Redes e Banco de Dados.
 - 📫    Entre em contato pelo email: iago.ti@outlook.com.br
