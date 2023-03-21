@@ -3,7 +3,7 @@
 - 🧾    Excel Básico ao Avançado Hotmart.
 - 🧾    Curso Cisco Network Essential.
 - 🧾    Curso Cisco Cybersecurity Essentials.
-- 🧾    Cursando Técnico em Informática Senac-RJ, Previsão de Término em Abril 2023
+- 🧾    Curso Técnico em Informática Senac-RJ.
 - 🧾    Cursando JavaScript e TypeScript do básico ao avançado, Previsão de Término em Agosto 2022
 - 💬    Gosto bastante de Segurança da Informação, Redes e Banco de Dados.
 - 📫    Entre em contato pelo email: iago.ti@outlook.com.br
