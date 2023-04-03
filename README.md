@@ -4,7 +4,7 @@
 - 🧾    Curso Cisco Network Essentials.
 - 🧾    Curso Cisco Cybersecurity Essentials.
 - 🧾    Excel Básico ao Avançado Hotmart.
-- 🧾    Cursando JavaScript e TypeScript do básico ao avançado, Previsão de Término em Outubro 2022
+- 🧾    Cursando JavaScript e TypeScript do básico ao avançado, Previsão de Término em Outubro 2023
 - 💬    Gosto bastante de Segurança da Informação, Redes e Banco de Dados.
 - 📫    Entre em contato pelo email: iago.ti@outlook.com.br
 <div align="center">
