@@ -3,8 +3,9 @@
 - 🧾    Curso Técnico em Informática Senac-RJ.
 - 🧾    Curso Cisco Network Essentials.
 - 🧾    Curso Cisco Cybersecurity Essentials.
+- 🧾    Curso CCNA1;
+- 🧾    Curso Cisco Network Security.
 - 🧾    Excel Básico ao Avançado Hotmart.
-- 🧾    Cursando JavaScript e TypeScript do básico ao avançado, Previsão de Término em Outubro 2023
 - 💬    Gosto bastante de Segurança da Informação, Redes e Banco de Dados.
 - 📫    Entre em contato pelo email: iago.ti@outlook.com.br
 <div align="center">
