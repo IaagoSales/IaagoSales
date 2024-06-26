@@ -6,6 +6,7 @@
 - 🧾    Curso CCNA1;
 - 🧾    Curso Cisco Network Security.
 - 🧾    Excel Básico ao Avançado Hotmart.
+- 🧾    Curso Endereçamento IPV4;
 - 💬    Gosto bastante de Segurança da Informação, Redes e Banco de Dados.
 - 📫    Entre em contato pelo email: iago.ti@outlook.com.br
 <div align="center">
