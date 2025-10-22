@@ -7,7 +7,7 @@
 - 🧾    Curso Cisco Network Security.
 - 🧾    Excel Básico ao Avançado Hotmart.
 - 🧾    Curso Endereçamento IPV4;
-- 💬    Gosto bastante de Segurança da Informação, Redes e Banco de Dados.
+- 💬    Áreas de interesse: Desenvolvimento Web (Front-End), Análise de Dados e Segurança da Informação.
 - 📫    Entre em contato pelo email: iago.ti@outlook.com.br
 <div align="center">
   <a href="https://github.com/IaagoSales">
